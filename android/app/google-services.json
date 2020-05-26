@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740466616438",
+    "firebase_url": "https://red-drop-3da52.firebaseio.com",
+    "project_id": "red-drop-3da52",
+    "storage_bucket": "red-drop-3da52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740466616438:android:8723b192d25008a26dd757",
+        "android_client_info": {
+          "package_name": "hafizz.reddrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740466616438-pqleibh2nejror0g73g3fgs507frrnha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaGfLMQa0I3ViFF91FlorT1qVX6ruBWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740466616438-pqleibh2nejror0g73g3fgs507frrnha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
